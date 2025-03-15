@@ -3,7 +3,7 @@ import cv2
 import face_recognition
 
 # here we load the image
-known_image = face_recognition.load_image_file('images/myimg.png')
+known_image = face_recognition.load_image_file('images/bill gates.jpg')
 known_image = cv2.cvtColor(known_image, cv2.COLOR_BGR2RGB)
 
 
