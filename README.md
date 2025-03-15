@@ -3,6 +3,7 @@ Face Recognition System 👤🔍
 This is a simple face recognition project that detects and recognizes faces using OpenCV and the face_recognition library. The project captures images from a webcam, processes facial features, and matches them against a stored dataset.
 
 Features 🚀
+
 ✅ Detects faces in real-time using OpenCV.
 
 ✅ Compares faces with stored images for recognition.
